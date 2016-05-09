@@ -1,8 +1,8 @@
 # ex3
 #### question 1
-- [ ] a:
-the plot :
-![alt tag](Plot.png)
+- [ ] a: <br>
+the plot :<br>
+![alt tag](Plot.png)<br>
 - betweeness :  Karev
 - Closness : Lexi
 - Eigencetor : 
