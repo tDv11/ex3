@@ -1,24 +1,24 @@
 # ex3
-#### question 1
-- [ ] a: <br>
-the plot :<br>
-![alt tag](EX3.jpg)<br>
-- betweeness :  Karev<br>
-- Closness : Lexi<br>
-- Eigencetor : Steve + Fin<br>
-<br>
-- [ ] b:<br>
-<br>
-#### Girvan-Newman
-<br>
-- The color plot:<br>
-![alt tag](3.jpg)<br>
+## question 1
+- [ ] a: 
+the plot :
+![alt tag](EX3.jpg)
+- betweeness :  Karev
+- Closness : Lexi
+- Eigencetor : Steve + Fin
+
+- [ ] b:
+
+### Girvan-Newman algorithm
+
+- The color plot:
+![alt tag](3.jpg)
 - we got 5 communities
-- and the modularity value was 0.5064879<br>
-<br>
-#### walktrap
-<br>
-- the color plot:<br>
-![alt tag](4.jpg)<br>
+- and the modularity value was 0.5064879
+
+walktrap algorithm
+
+- the color plot:
+![alt tag](4.jpg)
 - we got 7 communities
-- the modularity value was 0.5147059<br>
+- the modularity value was 0.5147059
