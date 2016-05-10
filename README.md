@@ -9,14 +9,14 @@ the plot :<br>
 <br>
 - [ ] b:<br>
 <br>
-#### Girvan-Newman<br>
+Girvan-Newman
 <br>
 - The color plot:<br>
 ![alt tag](3.jpg)<br>
 - we got 5 communities
 - and the modularity value was 0.5064879<br>
 <br>
-#### walktrap<br>
+walktrap
 <br>
 - the color plot:<br>
 ![alt tag](4.jpg)<br>
