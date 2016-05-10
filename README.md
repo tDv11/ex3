@@ -2,7 +2,7 @@
 #### question 1
 - [ ] a: <br>
 the plot :<br>
-![alt tag](Plot.png)<br>
+![alt tag](EX3.jpg)<br>
 - betweeness :  Karev
 - Closness : Lexi
 - Eigencetor : 
