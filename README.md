@@ -46,6 +46,7 @@
 
 ### walktrap algorithm
 - The color plot:
-![alt tag](3.jpg)
-- we got 7 communities
-- the modularity value was 0.5147059
+![alt tag](7.jpg)
+- we got 1 communities
+- the modularity value was 0
+- for more info see file name [ex3 q2 b-walktrap community.R](https://github.com/tDv11/ex3/blob/master/ex3%20q2%20b-walktrap%20community.R)
