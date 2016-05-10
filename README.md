@@ -1,7 +1,7 @@
 # ex3
 ## question 1
 - [ ] a: 
-the plot :
+- the plot :
 ![alt tag](EX3.jpg)
 - betweeness :  Karev
 - Closness : Lexi
@@ -16,7 +16,7 @@ the plot :
 - we got 5 communities
 - and the modularity value was 0.5064879
 
-walktrap algorithm
+### walktrap algorithm
 
 - the color plot:
 ![alt tag](4.jpg)
