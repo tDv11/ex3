@@ -39,9 +39,10 @@
 
 ### Girvan-Newman algorithm
 - The color plot:
-![alt tag](3.jpg)
+![alt tag](6.jpg)
 - we got 7 communities
-- the modularity value was 0.5147059
+- the modularity value was 0.4182825
+- for more info see file name [ex3 q2 b-girvan newman.R](https://github.com/tDv11/ex3/blob/master/ex3%20q2%20b-girvan%20newman.R)
 
 ### walktrap algorithm
 - The color plot:
