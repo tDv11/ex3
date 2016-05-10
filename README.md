@@ -24,7 +24,7 @@
 ![alt tag](4.jpg)
 - we got 7 communities
 - the modularity value was 0.5147059
-- for more info see file name [ex3 q1 b-Girvan-Newman algorithm.R](https://github.com/tDv11/ex3/blob/master/ex3%20q1%20b%20-walktrap%20community.r)
+- for more info see file name [ex3 q1 b-walktrap community.R](https://github.com/tDv11/ex3/blob/master/ex3%20q1%20b%20-walktrap%20community.r)
 
 ## question 2
 - [ ] a: 
@@ -40,7 +40,7 @@
 ### Girvan-Newman algorithm
 - The color plot:
 ![alt tag](6.jpg)
-- we got 7 communities
+- we got 12 communities
 - the modularity value was 0.4182825
 - for more info see file name [ex3 q2 b-girvan newman.R](https://github.com/tDv11/ex3/blob/master/ex3%20q2%20b-girvan%20newman.R)
 
