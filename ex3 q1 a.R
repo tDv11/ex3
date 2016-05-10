@@ -1,0 +1,7 @@
+install.packages("igraph")
+library("igraph")
+actors <- read.table("ga_actors.csv", header = TRUE, sep = ",")
+g <- graph.data.frame(edgelist, directed=TRUE, vertices=actors)
+betweenness(g)
+closeness(g)
+eigen_centrality(g)
